@@ -2,21 +2,21 @@
 
 ## Project Ideas
 * [Refactor the chatbot in the Speak Activity to use AI](#Refactor-the-chatbot-in-the-Speak-Activity-to-use-AI)
-* [Add an AI chatbot to the Chat Activity](#Add-an-AI-chatbot-to-the-Chat-Activity)
-* [Add AI-assistant to the Pippy Activity](#Add-an-AI-assistant-to-the-Pippy-Activity)
-* [Add AI-assistant to the Write Activity](#Add-an-AI-assistant-to-the-Write-Activity)
+* [Add an AI chatbot to the Chat Activity](#Add-an-AI-chatbot-to-the-Chat-Activity) Done
+* [Add AI-assistant to the Pippy Activity](#Add-an-AI-assistant-to-the-Pippy-Activity) Done
+* [Add AI-assistant to the Write Activity](#Add-an-AI-assistant-to-the-Write-Activity) 
 * [Refactor the Infoslicer Activity to generate plain-language summaries](#Refactor-the-Infoslicer-Activity-to-generate-plain-language-summaries)
-* [Add real-time collaboration to Music Blocks](#Add-real-time-collaboration-to-Music-Blocks)
-* [Musical ideation through Generative AI](#musical-ideation-through-generative-ai)
-* [Make your own Lesson Plan for Music Blocks](#make-your-own-lesson-plan-for-music-blocks)
-* [Musical creation and transcription assistance via generative AI](#musical-creation-and-transcription-assistance-via-generative-ai)
-* [Music Blocks 4 Project Builder Integration](#music-blocks-4-project-builder-integration)
+* [Add real-time collaboration to Music Blocks](#Add-real-time-collaboration-to-Music-Blocks) 
+* [Musical ideation through Generative AI](#musical-ideation-through-generative-ai) Done 
+* [Make your own Lesson Plan for Music Blocks](#make-your-own-lesson-plan-for-music-blocks) Done
+* [Musical creation and transcription assistance via generative AI](#musical-creation-and-transcription-assistance-via-generative-ai) Done
+* [Music Blocks 4 Project Builder Integration](#music-blocks-4-project-builder-integration) Done
 * [Music Blocks 4 Programming Framework Enhancements](#music-blocks-4-programming-framework-enhancements)
-* [Maintain/port 12 Sugar activities to FlatPak](#maintain-port-12-sugar-activities-to-flatpak)
-* [Sugarizer VueJS App](#sugarizer-vuejs-app)
-* [Sugarizer 3D Volume activity](#sugarizer-3d-volume-activity)
-* [Sugar on Raspberry Pi](#sugar-on-raspberry-pi)
-* [Math Games](#math-games)
+* [Maintain/port 12 Sugar activities to FlatPak](#maintain-port-12-sugar-activities-to-flatpak) Done
+* [Sugarizer VueJS App](#sugarizer-vuejs-app) Done
+* [Sugarizer 3D Volume activity](#sugarizer-3d-volume-activity) Done
+* [Sugar on Raspberry Pi](#sugar-on-raspberry-pi) Done
+* [Math Games](#math-games) Done 
 * [GTK4 exploration](#gtk4-exploration)
 
 [Administrative notes](#administrative-notes)
